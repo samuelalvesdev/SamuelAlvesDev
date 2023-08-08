@@ -2,7 +2,7 @@
 
 ##
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=SamuelAlvesDev&show_icons=true&theme=transparent"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlvesDev&layout=compact&show_icons=true&theme=transparent">
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=SamuelAlvesDev&show_icons=true&theme=transparent"> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlvesDev&layout=compact&show_icons=true&theme=transparent">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
