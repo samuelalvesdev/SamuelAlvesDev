@@ -11,7 +11,7 @@
   <img align="center" alt="Souza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Souza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Souza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Souza-Java" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
+  <img align="center" alt="Souza-Java" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img heigh="400" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
  <br> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
 
            
