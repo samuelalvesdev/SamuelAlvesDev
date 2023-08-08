@@ -4,14 +4,14 @@
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SamuelAlvesDev&show_icons=true&theme=transparent"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlvesDev&layout=compact&show_icons=true&theme=transparent">
 
 <div style="display: inline_block"><br>
-  <img align="middle" alt="Souza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="middle" alt="Souza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="middle" alt="Souza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="middle" alt="Souza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="middle" alt="Souza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="middle" alt="Souza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="middle" alt="Souza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="middle" alt="Souza-Java" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img heigh="400" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
+  <img align="top" alt="Souza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="top" alt="Souza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="top" alt="Souza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="top" alt="Souza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="Souza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="tope" alt="Souza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="Souza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="top" alt="Souza-Java" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img heigh="400" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
  <br> <img alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
 
            
