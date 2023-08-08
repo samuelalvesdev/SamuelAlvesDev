@@ -11,8 +11,9 @@
   <img align="center" alt="Souza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Souza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Souza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Souza-Java" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
- <br> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> <br>
+  <img align="center" alt="Souza-Java" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
+ <br> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
+
            
           
 </div> 
@@ -27,6 +28,8 @@
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div> 
+
+
 
 
 
