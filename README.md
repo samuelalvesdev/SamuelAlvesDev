@@ -1,4 +1,4 @@
-# Olá! Eu sou o Samuel Alves
+ <h1 align='center'> Olá! Eu sou o Samuel Alves</h1>
 
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SamuelAlvesDev&show_icons=true&theme=transparent"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlvesDev&layout=compact&show_icons=true&theme=transparent">
