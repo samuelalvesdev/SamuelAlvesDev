@@ -19,7 +19,7 @@
   
    <img heigh="400" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
    
-   <br><br><br><br><br><br><br><br>
+   <br><br><br><br><br><br><br><br><br><br><br><br><br>
    
    ##
 
