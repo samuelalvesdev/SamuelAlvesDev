@@ -17,31 +17,21 @@
   
 ##
   
-   
    <img heigh="400" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
-     
-          
-</div> 
-<div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- </div>
-<div>
- 
-##
- 
-  <h3>Contacts:</h3>
+   
+   <br><br><br><br><br><br><br><br>
+   
+   ##
+
+   <h3>Contacts:</h3>
   <a href="https://instagram.com/_smueelx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:samuel.alvessouza@ufrpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+             
+</div> 
 
-</div>
+   
+
 
 
 
