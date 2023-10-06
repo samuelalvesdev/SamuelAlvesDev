@@ -1,6 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Samuel.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Samuel Welcome to my Profile! animated typed out">
 
 
+### Welcome to my GitHub! :grin:
+   
+#### Hello, my name is Samuel, I'm a student of Computation in UFR of Pernambuco, currently i'm focused on developing my skills in programming.
+##
 
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SamuelAlvesDev&show_icons=true&theme=transparent"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlvesDev&layout=compact&show_icons=true&theme=transparent">
