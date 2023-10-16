@@ -2,7 +2,7 @@
 
 <br>
 
-### Welcome to my GitHub! :grin:
+### Welcome to my GitHub!! :grin:
    
 #### Hello, my name is Samuel, I'm a student of Computation in UFR of Pernambuco, currently i'm focused on developing my skills in programming.
 ##
