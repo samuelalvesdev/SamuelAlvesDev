@@ -6,10 +6,6 @@
    
 #### Hello, my name is Samuel, I'm a student of Computation in UFR of Pernambuco, currently i'm focused on developing my skills in programming.
 ##
-
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=SamuelAlvesDev&show_icons=true&theme=transparent"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlvesDev&layout=compact&show_icons=true&theme=transparent">
-
 <div style="display: inline_block">
  <h2 align="Center">Skills:</h2>
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
