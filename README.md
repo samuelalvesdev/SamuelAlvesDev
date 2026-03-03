@@ -5,7 +5,7 @@
 ### Welcome to my GitHub!! :grin:
    
 #### Hello, my name is Samuel, I'm a student of Computation in UFR of Pernambuco, currently i'm focused on developing my skills in programming.
-##
+
 <div style="display: inline_block">
  <h2 align="Center">Skills:</h2>
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
