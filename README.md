@@ -4,11 +4,14 @@
 
 ### Welcome to my GitHub!! :grin:
    
-#### Hello, my name is Samuel, I'm a student of Computation in UFR of Pernambuco, currently i'm focused on developing my skills in programming.
+#### Hi, I'm Samuel 👋
+
+I'm a Computer Science student at UFRPE with a growing interest in software development. I'm currently focused on strengthening my programming fundamentals, building practical projects, and learning technologies that help me become a better developer.
 
 <div style="display: inline_block">
  <h2 align="Center">Skills:</h2>
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+     <a href="https://nextjs.org/" target="_blank"><img align="top" alt="Souza-NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -22,7 +25,7 @@
 <!--   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 <!--   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> -->
-  <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-VsCode" src="https://img.shields.io/badge/Vscode-2496ED?style=for-the-badge&logo=visualstudio&logoColor=blue&color=white"></a>
+  <!-- <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-VsCode" src="https://img.shields.io/badge/Vscode-2496ED?style=for-the-badge&logo=visualstudio&logoColor=blue&color=white"></a> -->
   
   
   
@@ -33,9 +36,9 @@
    ##
 
    <h3>Contacts:</h3>
-  <a href="https://instagram.com/_smueelx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://instagram.com/_smueelx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:samuel@samuelsouzadev.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuelalvesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
              
 </div> 
 
