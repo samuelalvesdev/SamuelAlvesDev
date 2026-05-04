@@ -1,12 +1,16 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Samuel.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Samuel Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Samuel+Alves.;Full+Stack+Developer.;DevOps+%26+Automation+Enthusiast." align="middle" alt="Hey, I'm Samuel Alves. Full Stack Developer. DevOps and Automation Enthusiast.">
 
 <br>
 
-### Welcome to my GitHub!! :grin:
-   
-#### Hi, I'm Samuel 👋
+### Welcome to my GitHub 👋
 
-I'm a Computer Science student at UFRPE with a growing interest in software development. I'm currently focused on strengthening my programming fundamentals, building practical projects, and learning technologies that help me become a better developer.
+#### Hi, I'm Samuel Alves
+
+I'm a Full Stack Developer with a strong interest in building practical, scalable, and production-ready web applications.
+
+My work combines **frontend development**, **backend APIs**, **database design**, and **DevOps practices**, using technologies like **Next.js**, **TypeScript**, **React**, **PostgreSQL**, **Docker**, and automation tools.
+
+I'm especially interested in SaaS products, cloud infrastructure, process automation, and AI integrations that solve real business problems.
 
 <div style="display: inline_block">
  <h2 align="Center">Skills:</h2>
@@ -24,6 +28,11 @@ I'm a Computer Science student at UFRPE with a growing interest in software deve
 <!--   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a> -->
 <!--   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+     <a href="https://www.postgresql.org/" target="_blank"><img align="top" alt="Souza-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+     <a href="https://tailwindcss.com/" target="_blank"><img align="top" alt="Souza-TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
+     <a href="https://vercel.com/" target="_blank"><img align="top" alt="Souza-Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://n8n.io/" target="_blank"><img align="top" alt="Souza-n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"></a>
+     
 <!--   <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> -->
   <!-- <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-VsCode" src="https://img.shields.io/badge/Vscode-2496ED?style=for-the-badge&logo=visualstudio&logoColor=blue&color=white"></a> -->
   
