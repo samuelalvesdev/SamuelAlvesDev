@@ -2,10 +2,6 @@
 
 <br>
 
-### Welcome to my GitHub 👋
-
-#### Hi, I'm Samuel Alves
-
 I'm a Full Stack Developer with a strong interest in building practical, scalable, and production-ready web applications.
 
 My work combines **frontend development**, **backend APIs**, **database design**, and **DevOps practices**, using technologies like **Next.js**, **TypeScript**, **React**, **PostgreSQL**, **Docker**, and automation tools.
