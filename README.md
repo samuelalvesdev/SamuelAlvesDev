@@ -35,12 +35,6 @@ I'm especially interested in SaaS products, cloud infrastructure, process automa
   <!-- <a href="https://www.linkedin.com/in/samuel-alves-96813620b" target="_blank"><img align="top" alt="Souza-VsCode" src="https://img.shields.io/badge/Vscode-2496ED?style=for-the-badge&logo=visualstudio&logoColor=blue&color=white"></a> -->
   
   
-  
-##
-  
-   <img heigh="400" width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalvesdev&theme=transparent" alt="samuelalvesdev" />
-   
-   ##
 
    <h3>Contacts:</h3>
   <!-- <a href="https://instagram.com/_smueelx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
