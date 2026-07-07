@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Samuel+Alves.;Full+Stack+Developer.;DevOps+%26+Automation+Enthusiast." align="middle" alt="Hey, I'm Samuel Alves. Full Stack Developer. DevOps and Automation Enthusiast.">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Samuel+Alves.;Full+Stack+Developer.;DevOps+%26+Automation+Enthusiast." align="middle" alt="Hey, I'm Samuel Souza. Full Stack Developer. DevOps and Automation Enthusiast.">
 
 <br>
 
