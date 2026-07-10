@@ -43,12 +43,16 @@ Currently focused on **SaaS products**, **backend development**, **DevOps**, **p
 ### Infrastructure and automation
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <!-- <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white" alt="Claude Code"> -->
+  <!-- <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=gnometerminal&logoColor=white" alt="Codex"> -->
 </p>
 
 ---
