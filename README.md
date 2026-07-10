@@ -10,16 +10,8 @@ alt="Typing SVG"
   automation and real business solutions.
 </p>
 
-<a href="https://www.linkedin.com/in/samuelsouzadev">
-  <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:samuel.souza@samuelsouzadev.com.br">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 
 </div>
-
----
 
 ## About me
 
@@ -63,6 +55,21 @@ Currently focused on **SaaS products**, **backend development**, **DevOps**, **p
 
 <div align="center">
 
-<sub>Building useful software, one commit at a time.</sub>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/samuelsouzadev">
+  <img
+    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
+</a>
+
+<a href="mailto:samuel.souza@samuelsouzadev.com.br">
+  <img
+    src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
+</a>
+
+</div>
 </div>
